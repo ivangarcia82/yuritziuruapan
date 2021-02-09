@@ -132,10 +132,19 @@ img {
 }
 
 .img-full {
-  width: 100%;
-  height: 100%;
+
   overflow: hidden;
   display: block;
+  margin-left:350px
+}
+
+.img-centrada{
+   width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 a {
@@ -2293,7 +2302,7 @@ mark {
   padding-bottom: 30px;
 }
 
-.off-canvas-menu-wrapper .top-info-wrap {
+.off-canvas-menu-wrapper .top--wrap {
   padding-bottom: 20px;
 }
 
